@@ -1,1 +1,1 @@
-# Music-player-with-pure-HTML-CSS-JS
+# Music-player
