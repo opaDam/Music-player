@@ -1,32 +1,32 @@
 let songs = [
     {
-        name: 'song 1',
+        name: 'Candida',
         path: 'https://opadam.github.io/map/map/a10',
-        artist: 'artist 1',
+        artist: 'Tony Orlando',
         cover: 'images/cover 1.png'
     },
     {
-        name: 'song 2',
+        name: 'Come A Little Bit Closer',
         path: 'https://opadam.github.io/map/map/a9',
-        artist: 'artist 2',
+        artist: 'Jay & the Americans',
         cover: 'images/cover 2.png'
     },
     {
-        name: 'song 3',
+        name: 'Feel Fre',
         path: 'https://opadam.github.io/map/map/a8',
-        artist: 'artist 3',
+        artist: 'Bellamy Brothers',
         cover: 'images/cover 3.png'
     },
     {
-        name: 'song 4',
+        name: 'Dance For Ever More',
         path: 'https://opadam.github.io/map/map/a7',
-        artist: 'artist 4',
+        artist: 'Si Cranstoun',
         cover: 'images/cover 4.png'
     },
     {
-        name: 'song 5',
+        name: 'You Drive Me Crazy',
         path: 'https://opadam.github.io/map/map/a6',
-        artist: 'artist 5',
+        artist: 'Shakin Stevens',
         cover: 'images/cover 5.png'
     },
 ]
