@@ -15,9 +15,9 @@ body{
 }
 
 .header{
-/*     position: fixed; */
-     position: relative;
-    padding-top: -10px;
+    position: fixed;
+/*      position: relative; */
+    padding-top: 40px;
     top: 0;
     color: #d5eebb;
     text-align: center;
