@@ -19,6 +19,8 @@ body{
     padding-top: 20px;
     top: 0;
     color: #d5eebb;
+    text-align: center;
+    justify-content: center;
 }
 
 .music-player{
