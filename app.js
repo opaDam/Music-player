@@ -84,7 +84,7 @@ forwardBtn.addEventListener('click', () => {
         currentMusic++;
     }
     setMusic(currentMusic);
-    playMusic();
+//     playMusic();
 })
 
 backwardBtn.addEventListener('click', () => {
@@ -94,5 +94,5 @@ backwardBtn.addEventListener('click', () => {
         currentMusic--;
     }
     setMusic(currentMusic);
-    playMusic();
+//     playMusic();
 })
