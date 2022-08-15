@@ -64,7 +64,7 @@ setInterval(() => {
     if(Math.floor(music.currentTime) == Math.floor(seekBar.max)){
         forwardBtn.click();
     }
-}, 500)
+}, 1000)
 
 seekBar.addEventListener('change', () => {
     music.currentTime = seekBar.value;
