@@ -1,7 +1,6 @@
 let currentMusic = 0;
 
 const music = document.querySelector('#audio');
-
 const seekBar = document.querySelector('.seek-bar');
 const songName = document.querySelector('.music-name');
 const artistName = document.querySelector('.artist-name');
@@ -38,7 +37,7 @@ const setMusic = (i) => {
     setTimeout(() => {
         seekBar.max = music.duration;
         musicDuration.innerHTML = formatTime(music.duration);
-    }, 300);
+    }, 1000);
 }
 
 setMusic(0);
