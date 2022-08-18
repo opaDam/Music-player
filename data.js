@@ -35,6 +35,30 @@ let songs = [
         artist: 'A-ha',
         cover: 'images/Take on Me.jpg'
     },
+    {
+        name: 'You (DU)',
+        path: 'https://opadam.github.io/map/map/a2',
+        artist: 'Bouke',
+        cover: 'images/Bouke - You (DU).jpg'
+    },
+    {
+        name: 'Country Boy',
+        path: 'https://opadam.github.io/map/map/a3',
+        artist: 'Alan Jackson',
+        cover: 'images/Country Boy.jpg'
+    },
+    {
+        name: 'For the Good Times',
+        path: 'https://opadam.github.io/map/map/a4',
+        artist: 'Albert West',
+        cover: 'images/For the Good Times.jpg'
+    },
+    {
+        name: 'Rain And Tears',
+        path: 'https://opadam.github.io/map/map/a5',
+        artist: 'Aphrodites Child',
+        cover: 'images/Rain And Tears.jpg'
+    },
 ]
 
-// musics/Song 1.mp3
+// 
