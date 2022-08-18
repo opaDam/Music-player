@@ -3,13 +3,13 @@ let songs = [
         name: 'Feel Free',
         path: 'https://opadam.github.io/map/map/a8',
         artist: 'Bellamy Brothers',
-        cover: 'images/Bellamy Brothers - Feel Free.jpg'
+        cover: 'https://opadam.github.io/map/map/img/Bellamy Brothers - Feel Free'
     },
     {
         name: 'Candida',
         path: 'https://opadam.github.io/map/map/a10',
         artist: 'Tony Orlando',
-        cover: 'images/Tony Orlando - Candida.jpg'
+        cover: 'https://opadam.github.io/map/map/img/Tony Orlando - Candida.jpg'
     },
     {
         name: 'Come A Little Bit Closer',
