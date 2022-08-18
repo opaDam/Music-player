@@ -15,19 +15,19 @@ let songs = [
         name: 'Come A Little Bit Closer',
         path: 'https://opadam.github.io/map/map/a9',
         artist: 'Jay & the Americans',
-        cover: 'images/plaat45toeren.jpg'
+        cover: 'images/Jay_and_the_Americans_Come_a_Little_Bit_Closer_Single.jpg'
     },
     {
         name: 'Dance For Ever More',
         path: 'https://opadam.github.io/map/map/a7',
         artist: 'Si Cranstoun',
-        cover: 'images/plaat45toeren.jpg'
+        cover: 'images/Si Cranstoun.jpg'
     },
     {
         name: 'You Drive Me Crazy',
         path: 'https://opadam.github.io/map/map/a6',
         artist: 'Shakin Stevens',
-        cover: 'images/plaat45toeren.jpg'
+        cover: 'images/Shakin Stevens.jpg'
     },
 ]
 
