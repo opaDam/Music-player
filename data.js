@@ -30,10 +30,10 @@ let songs = [
         cover: 'images/Shakin Stevens.jpg'
     },
     {
-        name: 'You Drive Me Crazy',
-        path: 'https://opadam.github.io/map/map/a6',
-        artist: 'Shakin Stevens',
-        cover: 'images/Shakin Stevens.jpg'
+        name: 'Take on Me',
+        path: 'https://opadam.github.io/map/map/a1',
+        artist: 'A-ha',
+        cover: 'images/Take on Me.jpg'
     },
 ]
 
