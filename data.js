@@ -3,8 +3,7 @@ let songs = [
         name: 'Feel Free',
         path: 'https://opadam.github.io/map/map/a8',
         artist: 'Bellamy Brothers',
-        cover: 'images/Bellamy.jpg',
-        cover2: 'images/Bellamy.jpg'
+        cover: 'images/Bellamy.jpg'
     },
     {
         name: 'Candida',
@@ -23,6 +22,12 @@ let songs = [
         path: 'https://opadam.github.io/map/map/a7',
         artist: 'Si Cranstoun',
         cover: 'images/Si Cranstoun.jpg'
+    },
+    {
+        name: 'You Drive Me Crazy',
+        path: 'https://opadam.github.io/map/map/a6',
+        artist: 'Shakin Stevens',
+        cover: 'images/Shakin Stevens.jpg'
     },
     {
         name: 'You Drive Me Crazy',
