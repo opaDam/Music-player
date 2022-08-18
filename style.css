@@ -11,7 +11,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #5f7a61;
+    /* background: #5f7a61; */
     background: #141d36;
     font-family: 'roboto', sans-serif;
     text-shadow: 1px 1px 2px black;
@@ -34,7 +34,8 @@ h1.header{
     width: 350px;
     height: 550px;
     border-radius: 20px;
-    background: rgba(201, 36, 36, 0.2);
+    /* background: rgba(201, 36, 36, 0.2); */
+    background: rgba(255, 255, 255, 0.2);
     box-shadow: 5px 5px 10px  rgba(255, 255, 255, 0.4);
     padding: 30px;
     overflow: hidden;
@@ -66,7 +67,8 @@ h1.header{
     width: 180px;
     height: 180px;
     border-radius: 50%;
-    background-image: url('images/cover\ 1.png');
+    /* background-image: url('images/plaat45toeren.jpg'); */
+    /* background-image: url('images/cover\ 1.png'); */
     background-size: cover;
     box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.08);
     animation: rotate 10s linear infinite;
@@ -83,10 +85,11 @@ h1.header{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 30px;
-    height: 30px;
+    width: 15px;
+    height: 15px;
     border-radius: 50%;
-    background: #5f7461;
+    background: #ded5d5;
+    /* background: #5f7461; */
 }
 
 .song-slider{
