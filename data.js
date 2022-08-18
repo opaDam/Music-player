@@ -9,13 +9,13 @@ let songs = [
         name: 'Candida',
         path: 'https://opadam.github.io/map/map/a10',
         artist: 'Tony Orlando',
-        cover: 'images/Tony Orlando - Candida.jpg'
+        cover: 'images/Candida.jpg'
     },
     {
         name: 'Come A Little Bit Closer',
         path: 'https://opadam.github.io/map/map/a9',
         artist: 'Jay & the Americans',
-        cover: 'images/Jay_and_the_Americans_Come_a_Little_Bit_Closer_Single.jpg'
+        cover: 'images/Come_a_Little_Bit_Closer_Single.jpg'
     },
     {
         name: 'Dance For Ever More',
@@ -39,7 +39,7 @@ let songs = [
         name: 'You (DU)',
         path: 'https://opadam.github.io/map/map/a2',
         artist: 'Bouke',
-        cover: 'images/Bouke - You (DU).jpg'
+        cover: 'images/You (DU).jpg'
     },
     {
         name: 'Country Boy',
