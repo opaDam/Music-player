@@ -3,7 +3,7 @@ let songs = [
         name: 'Feel Free',
         path: 'https://opadam.github.io/map/map/a8',
         artist: 'Bellamy Brothers',
-        cover: 'https://opadam.github.io/map/img/jpg8.jpg'
+        cover: 'https://opadam.github.io/map/img/jpg8'
     },
     {
         name: 'Candida',
