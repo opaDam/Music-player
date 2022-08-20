@@ -9,7 +9,7 @@ let songs = [
         name: 'Candida',
         path: 'https://opadam.github.io/map/map/a10',
         artist: 'Tony Orlando',
-        cover: 'images/Candida.jpg'
+        cover: 'https://opadam.github.io/map/img/Candida.jpg'
     },
     {
         name: 'Come A Little Bit Closer',
