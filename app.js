@@ -70,7 +70,7 @@ seekBar.addEventListener('change', () => {
 })
 
 const playMusic = () => {
-    // music.play();
+    music.play();
     playBtn.classList.remove('pause');
     disk.classList.add('play');
 }
@@ -83,7 +83,7 @@ forwardBtn.addEventListener('click', () => {
         currentMusic++;
     }
     setMusic(currentMusic);
-    playMusic();
+    if(playBtn.className.includes('pause')) playMusic();
 })
 
 backwardBtn.addEventListener('click', () => {
@@ -93,5 +93,5 @@ backwardBtn.addEventListener('click', () => {
         currentMusic--;
     }
     setMusic(currentMusic);
-    playMusic();
+    if(playBtn.className.includes('pause')) playMusic();
 })
