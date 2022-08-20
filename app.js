@@ -83,9 +83,7 @@ forwardBtn.addEventListener('click', () => {
         currentMusic++;
     }
     setMusic(currentMusic);
-    if(playBtn.className.includes('pause')) playMusic();
-    playBtn.classList.toggle('pause');
-    disk.classList.toggle('play');
+    playMusic();
 })
 
 backwardBtn.addEventListener('click', () => {
@@ -95,7 +93,5 @@ backwardBtn.addEventListener('click', () => {
         currentMusic--;
     }
     setMusic(currentMusic);
-    if(playBtn.className.includes('pause')) playMusic();
-    playBtn.classList.toggle('pause');
-    disk.classList.toggle('play');
+    playMusic();
 })
