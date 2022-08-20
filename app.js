@@ -77,13 +77,13 @@ const playMusic = () => {
 
 // forward and backward button
 forwardBtn.addEventListener('click', () => {
-    if(currentMusic >= songs.length - 1){
+    if(currentMusic >= songs.length - 1 && playBtn.classList === ('pause')){
         currentMusic = 0;
     } else{
         currentMusic++;
     }
     setMusic(currentMusic);
-    playMusic();
+    // playMusic();
 })
 
 backwardBtn.addEventListener('click', () => {
@@ -93,5 +93,5 @@ backwardBtn.addEventListener('click', () => {
         currentMusic--;
     }
     setMusic(currentMusic);
-    playMusic();
+    // playMusic();
 })
